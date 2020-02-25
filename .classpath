@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: commons-io:commons-io:2.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.poi:poi:4.1.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: commons-codec:commons-codec:1.13"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.commons:commons-collections4:4.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.commons:commons-math3:3.6.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.zaxxer:SparseBitSet:1.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.poi:poi-ooxml:4.1.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.commons:commons-compress:1.19"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.github.virtuald:curvesapi:1.06"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.poi:poi-ooxml-schemas:4.1.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.xmlbeans:xmlbeans:3.1.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.poi:poi-scratchpad:4.1.2"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
